@@ -1,0 +1,16 @@
+{
+  "name": "gift-sounds",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "js-yaml": "latest",
+    "ejs": "latest",
+    "ws": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+    "tiktok-live-connector": "latest"
+  }
+}
